@@ -46,4 +46,3 @@ Parameters.py: global parameters for model.
 
 We use bayesian optimization to tune hyper-parameters, and conduct the optimization using [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) speficially. Lists of all final parameters as well as range of values tried per parameter during development could be found in dictionary Hyper-parameters. 
 
-[MIMIC-III](https://mimic.physionet.org)
